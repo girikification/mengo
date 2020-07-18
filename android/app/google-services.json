@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1066335657553",
+    "firebase_url": "https://mengo-7833b.firebaseio.com",
+    "project_id": "mengo-7833b",
+    "storage_bucket": "mengo-7833b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066335657553:android:7a186e29f5376b2057a270",
+        "android_client_info": {
+          "package_name": "com.example.mengo3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1066335657553-issdevgjvgrnpqb51lgpqcau5eea7stn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmix_H0bRGqind5qrmKaxVMNKjiTES6OE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1066335657553-issdevgjvgrnpqb51lgpqcau5eea7stn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
